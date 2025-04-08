@@ -1,0 +1,37 @@
+:root {
+    --cBg: #10101a;
+    --c2Bg: #202030;
+
+    --cFt: #efefff;
+    --cH1: #ffffff;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Helvetica, Arial, sans-serif;
+    background-color: var(--cBg);
+    color: var(--cFt);
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+
+    background-color: var(--c2Bg);
+    border-bottom: solid 2px var(--cFt);
+}
+
+h1 {
+    color: #ffffff;
+}
+
+div.burger {
+    display: flex;
+    flex-direction: column;
+}
+div.burger div:nth-child(1) {
+    width: 3em;
+    height: 0.5em;
+    background-color: aqua;
+}
