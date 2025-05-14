@@ -1,5 +1,5 @@
-# Guéwen Maréchal
-### Student in IT looking to apply for a work-study position in these domains of development / optimisation :
+# Guéwen Maréchal, Student in IT
+### Looking to apply for a work-study position in these domains of development / optimisation :
 - Software
 - System
 - Backend Web
