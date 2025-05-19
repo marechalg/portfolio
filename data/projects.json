@@ -1,27 +1,26 @@
 [
     {
-        "name": "jo24bmx",
+        "id": "Site web JO 2024, Épreuve BMX Racing",
         "categories": [
             "web"
         ],
         "technologies": [
-            "html",
-            "css",
-            "js",
-            "figma"
+            "HTML",
+            "CSS",
+            "JS",
+            "Figma"
         ],
         "collaborators": [
             "Clément Philippo",
             "Titouan Louis--Renault",
             "Yannis Chellali"
         ],
-        "medias": [
-            
-        ]
+        "medias": ""
     }, {
-        "name": "snake",
+        "name": "Snake",
         "categories": [
-
+            "C",
+            "Doxygen"
         ]
     }
 ]
